@@ -1,6 +1,7 @@
+%parameters
 c = 29979245800;
 Estart = 10^52;
-ni = 10^(-2); %change!
+ni = 10^(-2);
 mp = 1.67262192*10^(-24);
 T3 = 17*Estart/(8*pi*ni*mp*c^2);
 Gamma0 = 10^6;
